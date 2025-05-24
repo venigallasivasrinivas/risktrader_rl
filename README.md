@@ -77,7 +77,8 @@ This project uses **Reinforcement Learning (RL)**, which is a way computers lear
 
 ## Screenshot
 
-![AAPL Trading Results](./screenshots/aapl_trading_results.png)
+![image](https://github.com/user-attachments/assets/c1588738-c288-4466-97c3-82899a6135e4)
+
 
 *This shows how well the agent traded Apple stock after learning.*
 
